@@ -1,5 +1,4 @@
 Git add *
-Git commit -m "Coment·rio importante para identificar a vers„o"
-
-
-git 
+Git commit -m "Coment√°rio importante para identificar a vers√£o"
+git clone git@github.com:rrrs21/Dio-desafio_Github.git
+git push origin
